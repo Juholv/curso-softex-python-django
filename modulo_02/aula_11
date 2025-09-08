@@ -1,0 +1,26 @@
+''' <3'''
+
+
+agenda = {}
+
+while True: 
+    print("Lista de contatos\n"
+          'opção 1 = adicionar\n'
+          'opção 2 = buscar\n'
+          'opção 3 = sair\n'
+          
+         
+    )
+    break
+adicionar = int(input("Escolha uma opção: "))
+
+if adicionar == '1':
+    print("Opção adicionada.")
+
+elif adicionar == '2':
+    print('buscando')
+
+else: 
+    print("sair")
+
+
